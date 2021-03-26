@@ -1,4 +1,4 @@
-# StateFarm-Data-Scientist
+#Statistical Modelling & Validation
 
 This is a take home assignment for a State Farm data science interview. One of the models had a cross validated AUC of > .99! The assignment demonstrates:
 
